@@ -1,2 +1,1 @@
-# Design-of-FPGA-Based-8-Tap-FIR-Low-Pass-Filter-for-Noise-Reduction-Using-Verilog-HDL
-This project presents the design, simulation, and FPGA implementation of an 8-tap Finite Impulse Response (FIR) low-pass filter using Verilog Hardware Description Language (HDL). The filter is designed to suppress high-frequency noise superimposed on a low-frequency sinusoidal signal. Filter coefficients are computed using Octave.
+
